@@ -33,7 +33,7 @@ export default function Home() {
       <h1 className="text-4xl text-gray-200 mb-4 text-center font-bold">
         Gerador de Senhas
       </h1>
-      <div className="w-3/12 bg-slate-700 text-gray-200 rounded-md p-8">
+      <div className="w-3/4 bg-slate-700 text-gray-200 rounded-md p-8">
         <div className="flex flex-col gap-3 text-2xl">
           <label className="flex justify-between">
             <span>Tamanho da senha:</span>
